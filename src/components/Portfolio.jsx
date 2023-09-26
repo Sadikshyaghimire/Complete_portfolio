@@ -1,23 +1,27 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import hospitalmanagement from "../assets/portfolio/hospitalmanagement.png";
+import attendancesystem from "../assets/portfolio/attendancesystem.png";
+import smarttrolley from "../assets/portfolio/smarttrolley.jpg";
+import padvending from "../assets/portfolio/padvending.jpeg";
 
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: hospitalmanagement,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: attendancesystem,
     },
     {
       id: 3,
-      src: navbar,
+      src: smarttrolley,
+    },
+    {
+      id: 4,
+      src: padvending,
     },
     
   ];
