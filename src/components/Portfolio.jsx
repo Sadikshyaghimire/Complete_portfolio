@@ -1,8 +1,8 @@
 import React from "react";
 import hospitalmanagement from "../assets/portfolio/hospitalmanagement.png";
-import attendancesystem from "../assets/portfolio/attendancesystem.png";
+import attendancesystem from "../assets/portfolio/attendancesystem.jpg";
 import smarttrolley from "../assets/portfolio/smarttrolley.jpg";
-import padvending from "../assets/portfolio/padvending.jpeg";
+import padvending from "../assets/portfolio/padvending.jpg";
 
 
 const Portfolio = () => {
