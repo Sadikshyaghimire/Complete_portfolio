@@ -23,7 +23,7 @@ const About = () => {
           My journey in the tech world has been marked by continuous learning
            and a commitment to staying at the forefront of industry trends.
             Beyond my professional pursuits, I enjoy sharing my knowledge and insights with others, whether through writing, mentoring, or participating in tech communities. 
-            Join me on this exciting journey through the ever-evolving landscape of technology, where we explore 
+            Join me on this exciting journey through the ever-evolving landscape of technology, where we explore
             its limitless potential and shape the digital future together."
 
         </p>
