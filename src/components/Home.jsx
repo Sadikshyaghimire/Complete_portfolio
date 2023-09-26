@@ -53,7 +53,6 @@
 // };
 
 // export default Home;
-
 import React from "react";
 import HeroImage from "../assets/heroImage.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
@@ -87,11 +86,11 @@ const Home = () => {
             </Link>
           </div>
         </div>
-        <div className="photo">
+        <div className="photo" style={{ marginLeft: "20px" }}>
           <div
-            className="rounded-md overflow-hidden w-15 h-15 md:w-15 md:h-15" // Adjust the width and height for the small circular frame
+            className="rounded-full overflow-hidden w-15 h-15 md:w-22 md:h-20" // Adjust the width and height for the small circular frame
             style={{
-              borderRadius: "50%",
+              borderRadius: "80%",
             }}
           >
             <img
