@@ -15,16 +15,12 @@ const Home = () => {
             I'm a Data Science Enthusiast
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Energetic, hardworking, and dedicated student with a
-           passion for exploring and researching in the field of
-          Data Analysis and visualization  with a determination for 
-          Strong leadership skills, combined with effective communication
-           and critical thinking abilities.
-
-
+            Energetic, hardworking, and dedicated student with a passion for
+            exploring and researching in the field of Data Analysis and
+            visualization with a determination for Strong leadership skills,
+            combined with effective communication and critical thinking
+            abilities.
           </p>
-          
-
           <div>
             <Link
               to="portfolio"
